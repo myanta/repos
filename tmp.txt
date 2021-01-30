@@ -1,1 +1,8 @@
-GitHubレポジトリテストテストファイル	サンプルメッセージ 	text english
+GitHubレポジトリテスト
+
+サンプル
+GitHubレポジトリテスト
+テストファイル
+	サンプルメッセージ 
+	text english
+localtest
