@@ -2,4 +2,7 @@ GitHubレポジトリテスト
 
 サンプル
 GitHubレポジトリテスト
-競合を起こす練習がしたい
+テストファイル
+	サンプルメッセージ 
+	text english
+localtest
